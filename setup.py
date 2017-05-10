@@ -25,7 +25,7 @@ _REQUIRES = [
     'cf-python>=1.3.2',
     'nose',
     'numpy>=1.7',
-    'netCDF4>=1.2.1',
+    'netCDF4==1.2.4',
     'requests',
     'psutil>=0.6.0'
     ]
